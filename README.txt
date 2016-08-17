@@ -1,0 +1,1 @@
+This script is made to sanitize a WindLDR tag export. Export the text file using the WindLDR "Export Tag Information" command. Running this python script will open a dialog to choose the text file; output file will be saved in same location.
